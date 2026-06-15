@@ -21,3 +21,4 @@ employee-management-system/
 ├── EmployeeService.java # Service class handling CRUD operations
 ├── Main.java            # Entry point, menu-driven console interface
 └── README.md            # Documentation
+├──Screenshots           #Evidence of source code and output
